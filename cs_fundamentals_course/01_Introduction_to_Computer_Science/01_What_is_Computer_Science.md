@@ -14,6 +14,29 @@ A common misconception is that computer science is all about programming. While 
 
 To put it another way, a computer scientist is like an architect who designs a building. The architect needs to understand the principles of engineering and physics to create a sound design, but they don't necessarily need to lay the bricks themselves. Similarly, a computer scientist needs to understand the principles of computation to design a solution, but the implementation (programming) is just one part of the process.
 
+## Fundamentals of Computer Science
+
+- Problem Solving
+- Algorithms
+- Data Structures
+- Programming
+- Computational Thinking
+- Logic
+- Abstraction
+- Recursion
+- Time Complexity
+- Space Complexity
+- Computer Architecture
+- Operating Systems
+- Networking
+- Databases
+- Software Engineering
+- Cybersecurity
+- Artificial Intelligence
+- Human-Computer Interaction
+- Theory of Computation
+- Mathematics for Computer Science
+
 **Why Study Computer Science?**
 
 In today's world, technology is ubiquitous. Understanding the principles of computer science can empower you to:
